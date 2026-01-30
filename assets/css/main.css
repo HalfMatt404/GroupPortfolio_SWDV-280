@@ -1,0 +1,26 @@
+/**
+@include xs { // 400px
+
+}
+@include sm { // 576px
+
+}
+@include md { // 768px
+
+}
+@include lg { // 960px
+
+}
+@include xl { // 1200px
+
+}
+@include xxl { // 1400px
+
+}
+**/
+/* Mixins */
+* {
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=main.css.map */
