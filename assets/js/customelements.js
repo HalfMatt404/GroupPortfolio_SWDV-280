@@ -37,7 +37,7 @@ class CustomFooter extends HTMLElement {
     constructor() {
         super();
 
-        this.innerHTML = ``;
+        this.innerHTML = `<h3>This is the footer</h3>`;
     }
 }
 
